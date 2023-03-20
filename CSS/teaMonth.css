@@ -1,0 +1,20 @@
+.teaMonth{
+    width: 1000px;
+    height: auto;
+    color: seashell;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo__teamonth h2 {
+    margin-top: 80px;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo__teamonth h4 {
+    font-size: 22px;
+}

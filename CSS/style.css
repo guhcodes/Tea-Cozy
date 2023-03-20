@@ -1,0 +1,31 @@
+@import "topo.css";
+@import "ourMission.css";
+@import "teaMonth.css";
+@import "secaoImagens.css";
+@import "locations.css";
+@import "contact.css";
+
+body {
+    padding: 0;
+    margin: 0;
+    color: seashell;
+    background-color: black;
+    font-family: Helvetica;
+    font-size: 22px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+footer {
+    display: flex;
+    float: left;
+    padding-left: 20px;
+}

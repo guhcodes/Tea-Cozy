@@ -1,0 +1,30 @@
+.ourMission {
+    width: 1200px;
+    height: 700px;
+    background-image:url("../images/img-mission-background.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.banner {
+    background-color: black;
+    height: 130px;
+}
+
+.banner h2,h4 {
+    color: seashell;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mission__titulo {
+    font-size: 32px;
+}
+
+.mission__subtitulo {
+    font-size: 22px;
+}
